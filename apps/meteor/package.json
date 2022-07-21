@@ -340,7 +340,7 @@
 		"react-keyed-flatten-children": "^1.3.0",
 		"react-query": "^3.38.0",
 		"react-virtuoso": "^1.11.1",
-		"redis": "^4.0.6",
+		"redis": "^4.2.0",
 		"semver": "^7.3.7",
 		"sharp": "^0.30.7",
 		"sip.js": "^0.20.0",
