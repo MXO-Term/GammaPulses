@@ -329,7 +329,7 @@
 		"prom-client": "^14.0.1",
 		"prometheus-gc-stats": "^0.6.3",
 		"proxy-from-env": "^1.1.0",
-		"psl": "^1.8.0",
+		"psl": "^1.9.0",
 		"query-string": "^7.1.1",
 		"queue-fifo": "^0.2.6",
 		"rc-scrollbars": "^1.1.5",
